@@ -9,7 +9,7 @@ In a multi-warehouse e-commerce setup, race conditions can lead to overselling w
 - **Stack:** Next.js (App Router), Supabase (PostgreSQL), Upstash (QStash).
 
 ## Links
-- **Live Demo:** [https://strong-centaur-05084e.netlify.app](https://strong-centaur-05084e.netlify.app)
+- **Live Demo:** https://allo-health-task.netlify.app/
 - **GitHub Repository:** [https://github.com/YASWANTH1976/allo-inventory](https://github.com/YASWANTH1976/allo-inventory)
 
 ## Setup
